@@ -100,7 +100,6 @@ App 支持 Android 7.0 及以上，同时打包 32 位（armeabi-v7a）与 64 �
 
 - 期待开箱即用、无需任何配置的用户；
 - 需要高并发、多租户、SLA 保障的生产业务；
-- 无法接受手机长期插电运行的用户。
 
 ### 三步开始使用
 
@@ -122,9 +121,8 @@ App 支持 Android 7.0 及以上，同时打包 32 位（armeabi-v7a）与 64 �
 ### 版本与获取
 
 - 当前版本：v1.0
-- 安装包：`【APK 下载地址】`
+- 安装包：`https://github.com/guoho123/AIRouter-/releases/tag/app`
 - 插件商店：`http://airouter.qaz14705.bbroot.com`
-- 更新说明：`【更新日志链接或摘要】`
 
 ### 关于作者
 
